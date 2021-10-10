@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raghuveer-i
+- 👋 Hi, I’m @Raghuveer
 - 👀 I’m interested in ...JAVASCRIPT, KOTLIN, ANGULAR, REACT, MONGODB, GIT, NODE.js, WebDevelopment and Andriod Development
 - 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...JAVASCRIPT, KOTLIN, ANGULAR, REACT, MONGODB, GIT, NODE.js, WebDevelopment and Andriod Development
